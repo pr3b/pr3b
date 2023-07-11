@@ -18,13 +18,13 @@
                    
 <div align="left">
                  
-- :telescope: I’m working as a Senior Technical Writer and contributing to the Technical Documentation.</h4>
+- :telescope: I’m working as a Senior Graphic Designer and Web Developer.</h4>
 
-- :seedling: Learn more about Technical Writing and Web Programming.</h4>
+- :seedling: Learn more about Programming and Web Designing.</h4>
 
 - :zap: In my free time, I do Workout routines💪, learn programming🖥️, read books📚 /articles📰 / podcasts🎙️ / edvideos📹 and also contribute in Open Source Softwareℹ️.</h4>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luphieanza/) [![Email Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:luphieanza@gmail.com)</h3>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramandaprabu/) [![Email Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:eb.underwood22@gmail.com)</h3>
 
 </div>
 
@@ -56,7 +56,7 @@
                    
 ### :fire: My Stats :
                    
-![Luphieanza's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr3b&show_icons=true&theme=default)
+![Ramanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr3b&show_icons=true&theme=default)
                    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pr3b&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
