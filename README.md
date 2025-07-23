@@ -18,7 +18,7 @@
                    
 <div align="left">
                  
-- :telescope: I’m working as a Senior Graphic Designer and Web Developer.</h4>
+- :telescope: I’m working as a Senior Graphic Designer and Web Designer.</h4>
 
 - :seedling: Learn more about Programming and Web Designing.</h4>
 
